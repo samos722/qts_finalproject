@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/*.parquet
+.doit.db*
+.idea/
+.vscode/
+*.ipynb_checkpoints/
